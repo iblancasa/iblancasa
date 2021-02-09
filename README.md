@@ -22,15 +22,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iblancasa&show_icons=true&count_private=true&include_all_commits=true" alt="iblancasa" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at [Real Time Innovations](https://www.rti.com/en/)
-- :seedling: &nbsp;I’m currently learning **Go**
+- :office: &nbsp;Working at [Real Time Innovations](https://www.rti.com/en/)
+- :seedling: &nbsp;I’m learning **Go**
 - 👯 Looking for awesome projects!
 - :nerd_face:	Interested on Python and tracing
 - :speech_balloon: &nbsp;I love speaking in conferences and workshops
 
 ### 🖥️ A little bit about me...
 
-Currently working as Internal Tools Engineer.
+I work as Internal Tools Engineer.
 
 During the last years I was working on the build system of the main product from the company. I had the opportunity to develop my skills on:
 
