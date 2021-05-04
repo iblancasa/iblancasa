@@ -1,7 +1,5 @@
 ## Hi! 👋 I'm [Israel](http://iblancasa.com)
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5116AQEMnhpRE50eng/profile-displaybackgroundimage-shrink_200_800/0/1516987452769?e=1618444800&v=beta&t=Gh8LyN8U46y1p_jxCO4GitUOUigCnweXWXhPZQfFTZQ">
-</p>
 
 <p align="center"> 
   <a href="https://dev.to/iblancasa">
@@ -22,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iblancasa&show_icons=true&count_private=true&include_all_commits=true" alt="iblancasa" align="right" />
 </a>
 
-- :office: &nbsp;Working at [Real Time Innovations](https://www.rti.com/en/)
+- :office: &nbsp;Working at [Red Hat](https://www.redhat.com/)
 - :seedling: &nbsp;I’m learning **Go**
 - 👯 Looking for awesome projects!
 - :nerd_face:	Interested on Python and tracing
