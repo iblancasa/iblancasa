@@ -28,9 +28,9 @@
 
 ### 🖥️ A little bit about me...
 
-I work as Internal Tools Engineer.
+I work as Quality Engineer at **Red Hat**. I work with Kubernetes, OpenShift, Golang, Jenkins and tons of tests!
 
-During the last years I was working on the build system of the main product from the company. I had the opportunity to develop my skills on:
+Previously, I worked on the build system of the the **RTI** main product (*ConnextDDS*). I had the opportunity to develop my skills on:
 
 * Build system development CMake and Gradle. Expertise using different platforms: Linux, Darwin, Windows, Android, VxWorks, Integrity, QNX, Lynx and AIX.
 * Continuous Integration: Jenkins
