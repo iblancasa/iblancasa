@@ -21,10 +21,11 @@
 </a>
 
 - :office: &nbsp;Working at [Red Hat](https://www.redhat.com/)
-- :seedling: &nbsp;I’m learning **Go**
+- :seedling: &nbsp;Improving my **Golang** knowledge
 - 👯 Looking for awesome projects!
 - :nerd_face:	Interested on Python and tracing
 - :speech_balloon: &nbsp;I love speaking in conferences and workshops
+- :rocket: Google Developer Expert in Google Cloud and Google Developer Group Granada organizer
 
 ### 🖥️ A little bit about me...
 
