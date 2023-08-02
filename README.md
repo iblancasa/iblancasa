@@ -16,13 +16,8 @@
   </a>
 </p>
 
-<a href="#iblancasa-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=iblancasa&show_icons=true&count_private=true&include_all_commits=true" alt="iblancasa" align="right" />
-</a>
-
 - :office: Working at [Red Hat](https://www.redhat.com/)
-- :seedling: Increasing my skills on **Golang**, **Kubernetes** and **OpenShift** 
-- :nerd_face: In love with **Python** and learning Rust
-- :speech_balloon: Crazy about talking at conferences and workshops!
-- :rocket: Google Developer Expert in Google Cloud and Google Developer Group Granada organizer
-- 👯 Always open for new challenges!
+- 🧙‍♂️ Doing observability stuff. Especially, distributed tracing and OpenTelemetry
+- :speech_balloon: Crazy about talking at conferences!
+- :rocket: Google Developer Expert in Google Cloud, Google Champion Innovator in Google Cloud, AWS Community Builder in Cloud Operations, and Google Developer Group Granada organizer
+- 👯 Always open to new challenges!
