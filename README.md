@@ -16,8 +16,7 @@
   </a>
 </p>
 
-- :office: Working at [Red Hat](https://www.redhat.com/)
-- 🧙‍♂️ Doing observability stuff. Especially, distributed tracing and OpenTelemetry
+- 🧙‍♂️ Doing observability stuff. Especially, OpenTelemetry
 - :speech_balloon: Crazy about talking at conferences!
-- :rocket: Google Developer Expert in Google Cloud, Google Champion Innovator in Google Cloud, AWS Community Builder in Cloud Operations, and Google Developer Group Granada organizer
+- :rocket: Google Developer Expert in Google Cloud, Google Champion Innovator in Google Cloud, and Google Developer Group Granada organizer
 - 👯 Always open to new challenges!
